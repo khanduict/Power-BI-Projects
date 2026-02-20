@@ -35,14 +35,12 @@ The organization is in an early growth phase and requires data-driven clarity to
 - Strong Wine category contribution
 #### Strategic Insight:
 Campaign 6 provides a replicable model for future campaign design.
-
 #### ⚠️ Campaign 2 Underperforms
 - Lowest revenue (~$0.04M)
 - Low purchase conversion
 - Heavy reliance on Wine category but weak overall traction
 #### Recommendation:
 Reassess segmentation, messaging alignment, and targeting strategy.
-
 #### 🍷 Revenue Concentration in Premium Categories
 Top revenue drivers:
 - Wine (~$0.48M)
@@ -51,7 +49,6 @@ Lower revenue categories:
 - Fruit & Sweets (~$0.06M)
 #### Implication:
 Profitability is strongly tied to premium product positioning.
-
 #### 🏪 Channel Insights
 Purchase distribution:
 - Store: 13K+
