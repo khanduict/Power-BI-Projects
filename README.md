@@ -26,7 +26,6 @@ The organization is in an early growth phase and requires data-driven clarity to
 ## 🖥️ Dashboard Overview
 ### 1️⃣ Campaign Performance Dashboard
 ![Market Research Assignment dashboard_Page_1](https://github.com/user-attachments/assets/979aa08d-30fb-457a-8a77-826a9aeb6b5e)
-
 ### Executive Findings
 #### 🏆 Campaign 6 is the Benchmark Performer
 - Highest purchase volume (334)
@@ -57,4 +56,5 @@ Purchase distribution:
 - Deals: 5K+
 #### Observation:
 Physical retail remains dominant, but digital channels show scalable growth opportunity.
+
 
