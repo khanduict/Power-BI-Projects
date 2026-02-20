@@ -1,8 +1,8 @@
-# 📊 Marketing Analytics Dashboard - Power-BI-Projects
-📌 Scenario
+## 📊 Marketing Analytics Dashboard - Power-BI-Projects
+#📌 Scenario
 - The client is a small company still learning their market and evaluating customer behavior. They have recently launched six marketing campaigns and want deeper insight into performance and customer trends.
   
-🎯 Business Problem
+#🎯 Business Problem
 - The client needs a BI solution to answer:
 - How are our 6 recent marketing campaigns performing?
 - How are our products performing?
