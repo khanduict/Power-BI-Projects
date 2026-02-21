@@ -25,9 +25,8 @@ The organization is in an early growth phase and requires data-driven clarity to
 
 ## 🖥️ Dashboard Overview
 ### 1️⃣ Campaign Performance Dashboard
-
-
-### Executive Findings
+![Market Research Assignment dashboard_Page_1](https://github.com/user-attachments/assets/ece5e4ef-65f8-4646-9738-884f1a3c3d1f)
+### Findings
 #### 🏆 Campaign 6 is the Benchmark Performer
 - Highest purchase volume (334)
 - Highest revenue (~$0.33M)
@@ -58,199 +57,103 @@ Purchase distribution:
 #### Observation:
 Physical retail remains dominant, but digital channels show scalable growth opportunity.
 
-2️⃣ Buyer Composition Analysis
-Customer Profile Snapshot
+### 2️⃣ Buyer Composition Analysis
+![Market Research Assignment dashboard_Page_2](https://github.com/user-attachments/assets/799807aa-63bf-4b4e-ad28-bb1c77221224)
 
-Total Customers: 2,240
+#### Customer Profile Snapshot
+- Total Customers: 2,240
+- Avg Income: ~$52K
+- Avg Age: 57
+- Majority: Married households
+- Highly educated (Graduation & Postgraduate dominant)
 
-Avg Income: ~$52K
-
-Avg Age: 57
-
-Majority: Married households
-
-Highly educated (Graduation & Postgraduate dominant)
-
-Strategic Demographic Insights
-🎓 Education & Income
-
-The customer base is predominantly well-educated and moderately affluent.
-
-Higher-income customers correlate strongly with higher campaign participation and sales contribution.
-
-Business Implication:
+#### Strategic Demographic Insights
+#### 🎓 Education & Income
+- The customer base is predominantly well-educated and moderately affluent.
+- Higher-income customers correlate strongly with higher campaign participation and sales contribution.
+#### Business Implication:
 Premium-focused campaigns align with the current customer profile.
 
-👨‍👩‍👧 Household Composition
-
-Majority households have 0–1 child
-
-Married customers dominate purchasing
-
-Insight:
+#### 👨‍👩‍👧 Household Composition
+- Majority households have 0–1 child
+- Married customers dominate purchasing
+#### Insight:
 Family-oriented promotions can drive basket expansion.
-
-📈 Age-Based Behavior
-
-Older segments show higher Wine purchase proportion
-
-Younger customers display more diversified category engagement
-
-Strategic Insight:
+#### 📈 Age-Based Behavior
+- Older segments show higher Wine purchase proportion
+- Younger customers display more diversified category engagement
+#### Strategic Insight:
 Age segmentation should influence product emphasis in campaigns.
 
-3️⃣ Purchase Drivers & Key Influencers Analysis
-
+### 3️⃣ Purchase Drivers & Key Influencers Analysis
 This dashboard leverages Power BI’s Key Influencers visual to determine drivers of:
+- Campaign acceptance
+- Total sales increase
+![Market Research Assignment dashboard_Page_3](https://github.com/user-attachments/assets/b8356b3c-03fa-435c-b57f-dbcc4ac391d5)
+#### 🔑 Key Drivers of Campaign Acceptance (Example: Campaign 1)
 
-Campaign acceptance
+#### Top Influencers:
+- Income > ~$60K → 7.8x more likely to accept campaign
+- 0 kids at home → 3.6x likelihood
+- Low web visits (≤5/month) → 3.1x likelihood
+- 0 teens at home → 1.8x likelihood
 
-Total sales increase
-
-🔑 Key Drivers of Campaign Acceptance (Example: Campaign 1)
-
-Top Influencers:
-
-Income > ~$60K → 7.8x more likely to accept campaign
-
-0 kids at home → 3.6x likelihood
-
-Low web visits (≤5/month) → 3.1x likelihood
-
-0 teens at home → 1.8x likelihood
-
-Interpretation:
+#### Interpretation:
 Higher-income, smaller households are more receptive to marketing campaigns.
 
-💰 Key Drivers of Increased Total Sales
+#### 💰 Key Drivers of Increased Total Sales
+- Sales increase when:
+- Income > ~$67K
+- No kids at home
+- Low web visits
+- No teens at home
 
-Sales increase when:
-
-Income > ~$67K
-
-No kids at home
-
-Low web visits
-
-No teens at home
-
-Senior-Level Insight:
+#### Senior-Level Insight:
 Household size and income are stronger predictors of sales than digital engagement metrics.
 
-🧠 Integrated Strategic Insights
+#### 🧠 Integrated Strategic Insights
 
 Across all three dashboards, a consistent pattern emerges:
-
 Revenue is driven by premium products (Wine & Meat).
-
 High-income customers significantly outperform other segments.
-
 Smaller households convert more effectively.
-
 Campaign structure + product mix + channel allocation jointly impact performance.
-
 Digital channels are under-optimized relative to store performance.
 
-🚀 Strategic Recommendations
-1️⃣ Replicate High-Performing Campaign Structure
-
-Use Campaign 6 as the structural template:
-
-Premium product emphasis
-
-Balanced channel mix
-
-High-income targeting
-
-2️⃣ Implement Income-Based Segmentation
-
-Create tiered campaigns:
-
-Premium experience campaigns for >$65K income
-
-Discount-driven offers for mid-income customers
-
-3️⃣ Optimize Household Targeting
-
-Focus on:
-
-Smaller households
-
-Married couples without children
-
-Older affluent demographic
-
-4️⃣ Expand Digital Strategy
-
-Improve web conversion optimization
-
-Introduce retargeting for mid-income segments
-
-Use email-driven premium promotions
-
-5️⃣ Reallocate Budget
-
-Reduce funding for underperforming campaigns (e.g., Campaign 2) and reallocate toward high-ROI structures.
-
-📊 KPI Architecture Implemented
+#### 📊 KPI Architecture Implemented
 Campaign KPIs
-
 Revenue by Campaign
-
 Purchase Volume
-
 Campaign Product Mix (%)
-
 Channel Contribution
-
 Customer KPIs
-
 Income Segmentation
-
 Age Distribution
-
 Education Level
-
 Household Composition
-
 Sales Drivers
-
 Campaign Acceptance Probability
-
 Income Threshold Impact
-
 Household Influence Factors
 
-🏗️ Data Modeling Approach
+#### 🏗️ Data Modeling Approach
 
-Star schema structure
-
-Fact tables: Sales, Campaign Responses
-
-Dimension tables: Customers, Products, Channels, Campaigns
-
+- Star schema structure
+- Fact tables: Sales, Campaign Responses
+- Dimension tables: Customers, Products, Channels, Campaigns
 DAX measures for:
+- Revenue calculations
+- Campaign performance metrics
+- Segmentation analysis
+- Key influencer modeling
 
-Revenue calculations
-
-Campaign performance metrics
-
-Segmentation analysis
-
-Key influencer modeling
-
-💼 Business Value Delivered
+#### 💼 Business Value Delivered
 
 This BI solution enables the organization to:
-
-Identify revenue-driving customer segments
-
-Improve marketing ROI
-
-Optimize product promotion strategy
-
-Personalize campaign targeting
-
-Make data-driven investment decisions
+- Identify revenue-driving customer segments
+- Improve marketing ROI
+- Optimize product promotion strategy
+- Personalize campaign targeting
+- Make data-driven investment decisions
 
 
