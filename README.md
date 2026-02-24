@@ -24,9 +24,11 @@ The organization is in an early growth phase and requires data-driven clarity to
 - Determine key drivers influencing purchases and campaign acceptance
 
 ## 🖥️ Dashboard Overview
-![!(https://github.com/khanduict/Marketing-Effectiveness-Customer-Behavior-Dashboard-Power-BI-/blob/main/Marketing%20effectiveness%20and%20customer%20behavior%20dashboard.gif) ](https://github.com/khanduict/Marketing-Effectiveness-Customer-Behavior-Dashboard-Power-BI-/blob/main/Marketing%20effectiveness%20and%20customer%20behavior%20dashboard.gif)
+
 
 ### 1️⃣ Campaign Performance Dashboard
+![Market Research Assignment dashboard_Page_1](https://github.com/user-attachments/assets/826e5808-3570-41e8-9b07-30d89ceb54b7)
+
 ### Findings
 #### 🏆 Campaign 6 is the Benchmark Performer
 - Highest purchase volume (334)
