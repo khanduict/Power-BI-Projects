@@ -27,7 +27,6 @@ The organization is in an early growth phase and requires data-driven clarity to
 ![!(https://github.com/khanduict/Marketing-Effectiveness-Customer-Behavior-Dashboard-Power-BI-/blob/main/Marketing%20effectiveness%20and%20customer%20behavior%20dashboard.gif) ](https://github.com/khanduict/Marketing-Effectiveness-Customer-Behavior-Dashboard-Power-BI-/blob/main/Marketing%20effectiveness%20and%20customer%20behavior%20dashboard.gif)
 
 ### 1️⃣ Campaign Performance Dashboard
-![Market Research Assignment dashboard_Page_1](https://github.com/user-attachments/assets/ece5e4ef-65f8-4646-9738-884f1a3c3d1f)
 ### Findings
 #### 🏆 Campaign 6 is the Benchmark Performer
 - Highest purchase volume (334)
